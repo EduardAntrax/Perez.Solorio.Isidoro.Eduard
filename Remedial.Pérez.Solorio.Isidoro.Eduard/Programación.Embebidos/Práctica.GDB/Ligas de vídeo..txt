@@ -1,0 +1,7 @@
+Ligas de práctica vídeo 
+
+Compilando Gcc
+https://www.youtube.com/watch?v=4YFzkoHRKiQ
+
+Compilando Debuggin GDB
+https://www.youtube.com/watch?v=MFN1RM5SgfU
